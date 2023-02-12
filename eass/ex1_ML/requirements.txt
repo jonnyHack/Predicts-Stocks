@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+numpy
+matplotlib
+pandas 
+requests
+pytest
+scikit-learn
+keras
+datetime
+tensorflow
+pytest

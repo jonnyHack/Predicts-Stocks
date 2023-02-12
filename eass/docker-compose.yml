@@ -1,0 +1,24 @@
+version: "3.9"
+
+services:
+    backend-service:
+        build: ./ex1_backend_jonathan
+        volumes:
+          - ./ex1_backend_jonathan:/app
+        ports:
+          - "8989:8080"
+
+    frontend-service:
+        build: ./ex1_fronted_jonathan
+        volumes:
+          - ./ex1_fronted_jonathan:/app
+        ports:
+          - "8501:8501"
+    ml-service:
+        build: ./ex1_ML
+        volumes:
+            - ./ex1_ML:/app
+        ports:
+          - "80:80"
+  
+

@@ -1,0 +1,10 @@
+yfinance
+fastapi
+uvicorn[standard]
+numpy
+matplotlib
+pandas 
+pandas-datareader
+requests
+pytest
+
