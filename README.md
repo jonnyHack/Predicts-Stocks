@@ -57,7 +57,7 @@ graph TD;
 Before getting started, we need to install the whole project, by this line in WSL:
 
 ```bash
-git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/hello-world.git
+git clone https://github.com/jonnyHack/Predicts-Stocks
 ```
 
 Now, we have install [docker-desktop](https://www.docker.com/products/docker-desktop/) and make sure that your docker-desktop is running while you need to run docker-compose.
@@ -92,4 +92,4 @@ You can find more Explaination in my [YouTube video link](https://youtu.be/UGuck
 ## _🚀 About Me_
 I'm a full stack developer...
 
-- [@JonyHack](https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ex1_backend_jonathan)
+- [@JonyHack](https://github.com/jonnyHack)
